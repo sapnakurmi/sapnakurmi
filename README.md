@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/sapna kurmi" target="blank"><img src="https://img.shields.io/twitter/follow/sapna kurmi?logo=twitter&style=for-the-badge" alt="sapna kurmi" /></a> </p>
 
-- 🔭 I’m currently working on **Act**
-
 - 🌱 I’m currently learning **Angular , Nodejs**
 
 - 💬 Ask me about **Angular**
